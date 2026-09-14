@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.db-journal
+*.db-wal
+data/*.db
+data/raw/*.csv
+# Keep figures tracked for GitHub README
+# reports/figures/*.png
+reports/*.pdf
+reports/*.zip
+*.zip
+.DS_Store
+venv/
